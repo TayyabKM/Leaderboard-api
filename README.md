@@ -25,15 +25,6 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -60,13 +51,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Leaderboard-API] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+>
 
-**[your_project__name]** is a...
+ A leaderboard webapp. Takes a player's name and score and adds to API database. Displays API database items.
 
 ## 🛠 Built With <a name="built-with"></a>
+
+- HTML
+- CSS
+- Javascript
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -99,9 +94,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Using callbacks and promises.]**
+- **[Demonstrate how to use proper ES6 syntax.]**
+- **[Using ES6 modules to write modular JavaScript.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -205,17 +200,11 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **TayyabKM**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github: [@TayyabKM](https://github.com/TayyabKM)
+- Twitter: [@TayyabI83126361](https://twitter.com/TayyabI83126361)
+- Linkedin: [@tayyab-irfan-01b72b1aa](https://www.linkedin.com/in/tayyab-irfan-01b72b1aa/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,9 +214,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Hit the API]**
+- [ ] **[Final Touches]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
