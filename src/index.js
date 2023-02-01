@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 // eslint-disable-next-line
 import _ from 'lodash';
 import dataInsert from './modules/dataInput.js';
