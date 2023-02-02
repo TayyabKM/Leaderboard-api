@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 const populateScores = (listData) => {
   const listObj = document.querySelector('.table-form');
 
@@ -6,7 +5,7 @@ const populateScores = (listData) => {
     const listRow = document.createElement('tr');
     listRow.className = 'score-list-row';
 
-    const listItem = document.createElement('tr');
+    const listItem = document.createElement('th');
     listItem.className = 'score-list-item';
     listItem.innerHTML = `${score.user} : ${score.score}`;
 
