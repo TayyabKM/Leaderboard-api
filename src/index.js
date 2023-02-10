@@ -3,7 +3,7 @@
 import _ from 'lodash';
 import populateScores from './modules/populateScores.js';
 import getScores from './modules/getGame.js';
-import createGame from './modules/createGame.js';
+import createGame from './modules/createGames.js';
 import './style.css';
 
 const url = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/01GG9XGZQRETNCSAJ7WBWF554R/scores';
